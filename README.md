@@ -24,7 +24,7 @@ Enter username and password of of your github account which has access to this r
 	
 ![](Screenshots/1.png)
 
-	$ cd artemis
+	$ cd Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020
 
 	$ sudo apt-get install virtualenv
 
